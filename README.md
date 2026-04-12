@@ -26,7 +26,8 @@ Jakie są najczęstsze skutki użycia "naiwnych" sposobów pracy w grupie?
 * `Który cymbał to pozmieniał?!`
 * `Prezentacja.ppt`, `Prezentacja poniedziałek.ppt`, `Prezentacja gotowa.ppt`, `Prezentacja skończona.ppt`, `Prezentacja z poprawkami.ppt`... I jeszcze z dziesięć podobnych.
 * `A mess a mess a mess a mess. Dirty. Dirty. Dirty. Why room so messy question?`
-* ![Niespodzianka!](/ilustracje/I_sit_on_the_toilet.jpg)
+
+![Niespodzianka!](/ilustracje/I_sit_on_the_toilet.jpg)
 
 ## Jakie rozwiązania dostarczają systemy kontroli wersji (takie jak git)
 
