@@ -23,5 +23,14 @@ Jakieś pomysły na wspólna edycję plików?
 Jakie są najczęstsze skutki użycia "naiwnych" sposobów pracy w grupie?
 
 * `Ej, gdzie się podziały moje zmiany?`
+* `Który cymbał to pozmieniał?!`
 * `Prezentacja.ppt`, `Prezentacja poniedziałek.ppt`, `Prezentacja gotowa.ppt`, `Prezentacja skończona.ppt`, `Prezentacja z poprawkami.ppt`... I jeszcze z dziesięć podobnych.
+* `A mess a mess a mess a mess. Dirty. Dirty. Dirty. Why room so messy question?`
 * ![Niespodzianka!](/ilustracje/I_sit_on_the_toilet.jpg)
+
+## Jakie rozwiązania dostarczają systemy kontroli wersji (takie jak git)
+
+* Śledzenie zmian (kto, kiedy, dlaczego i co zmienił)
+* Możliwość cofnięcia się w czasie do dowolnego momentu
+* Wskazywanie najbardziej aktualnej wersji
+* Porównywanie ze sobą różnych wersji tego samego pliku
