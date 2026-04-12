@@ -12,8 +12,16 @@ Jakieś pomysły na wspólna edycję plików?
 
 * Która wersja jest najnowsza?
 * Konflikt edycyjny
+* Problemy ze scalaniem zmian
 * Kto to zmienił?
+* Dlaczego to zmieniono?
 * Czy można wycofać tę konkretną zmianę?
 * ...
 * ...
 * ...
+
+Jakie są najczęstsze skutki użycia "naiwnych" sposobów pracy w grupie?
+
+* `Ej, gdzie się podziały moje zmiany?`
+* `Prezentacja.ppt`, `Prezentacja poniedziałek.ppt`, `Prezentacja gotowa.ppt`, `Prezentacja skończona.ppt`, `Prezentacja z poprawkami.ppt`... I jeszcze z dziesięć podobnych.
+* ![Niespodzianka!](/ilustracje/I_sit_on_the_toilet.jpg)
