@@ -34,3 +34,9 @@ Jakie są najczęstsze skutki użycia "naiwnych" sposobów pracy w grupie?
 * Możliwość cofnięcia się w czasie do dowolnego momentu
 * Wskazywanie najbardziej aktualnej wersji
 * Porównywanie ze sobą różnych wersji tego samego pliku
+
+Dodatkowo, `git` dostarcza następujące ułatwienia:
+
+* Łatwe scalanie kilku zmian w jednym pliku
+* Rozwiązywanie konfliktów edycyjnych
+* Łatwą izolację wersji rozwojowych od działających
