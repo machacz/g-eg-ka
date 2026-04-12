@@ -1,0 +1,1 @@
+# Gżegżółka, czyli podstawy gita w oparciu o GitHub
