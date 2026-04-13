@@ -127,6 +127,7 @@ Jak się to rozrysowuje? W określoną strukturę - historia.
 ## Robimy pull request
 
 * Co to jest `pull request`? (To wcale nie jest termin z `gita`!)
+* Co to jest `SoftwareForge`? Jakieś znane przykłady?
 
 ![Compare and pull request](/ilustracje/compare_and_pull_request.jpg)
 
@@ -138,6 +139,8 @@ Jak się to rozrysowuje? W określoną strukturę - historia.
 (Rebase przenosi commity na docelowy branch, zmieniając ich ID).
 
 ![Merge](/ilustracje/merge.jpg)
+
+## Edycja kodu w przeglądarce
 
 ## Ustawienia
 
