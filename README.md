@@ -60,3 +60,15 @@ KTO UMIESZCZA W REPOZYTORIUM GIT ZMIENNE DANE BINARNE, A W SZCZEGÓLNOŚCI:
 PODLEGA KARZE POZBAWIENIA WYPŁATY NIE NIŻSZEJ NIŻ TRZY MIESIĄCE, KARZE NAGANY, BĄDŹ KARZE ZMIANY ZESPOŁU NA PIERWSZĄ LINIĘ WSPARCIA ORANGE.
 
 (Czysty `git` nie da rady, ale np. rozwiązania `SoftwareForge`, takie jak `Github`, albo `gitea`/[`forgejo`](https://forgejo.org/) czy `GitLab` - jak najbardziej potrafią trzymać pliki wynikowe kompilacji i zbudowane projekty.)
+
+## Dzielimy się na grupy
+
+## Zakładamy pierwsze repozytorium
+
+## Dodajemy pliki
+
+## Zapraszamy kolegę/koleżankę
+
+## Pracujemy na branchu
+
+## Robimy pull request
