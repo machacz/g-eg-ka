@@ -106,6 +106,21 @@ Teraz utwórz plik `README.md`...
 
 ![Nowe repozytorium](/ilustracje/collaborators.jpg)
 
-## Pracujemy na branchu
+## Pracujemy na branchu - najpierw właściciel
+
+* Wybierz jeden z tekstów w tym repozytorium - bądź opracuj własny, jeśli potrafisz zrobic to szybko
+* Utwórz branch, na przykład o nazwie `challenge`, `task` - cokolwiek Ci odpowiada
+* Dodaj na niego tekst w formie wyzwania, i poinformuj, na czym to wyzwanie polega
+
+## Pracujemy na branchu - teraz collaborator
+
+* Sklonuj repozytorium kolegi
+* Przełącz się na branch z testami
+* Na tej podstawie utwórz własny branch o nazwie `response`, `answer` itp
+* Popraw załączomy plik, udzielając odpowiedzi (dyktando)
 
 ## Robimy pull request
+
+![Compare and pull request](/ilustracje/compare_and_pull_request.jpg)
+
+![Merge](/ilustracje/merge.jpg)
