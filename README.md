@@ -136,3 +136,42 @@ Jak się to rozrysowuje? W określoną strukturę - historia.
 (Rebase przenosi commity na docelowy branch, zmieniając ich ID).
 
 ![Merge](/ilustracje/merge.jpg)
+
+## Ustawienia
+
+![Ustawienia](/ilustracje/ustawienia.jpg)
+
+## Jak stoimy z czasem?
+
+## Pipeline - GitHub Actions
+
+* Testy wymagane do przejścia, zanim będzie można zmergować kod.
+* Budowanie aplikacji po mergu.
+* Automatyczne deploymenty.
+* ...
+* ...
+* ...
+
+Runner - automatyzacja musi się gdzieś wykonać.
+
+* Jeśli runnery z GitHuba nie mają dostępu do Twojej infrastruktury - stawiasz własny w odpowiednim miejscu.
+* Jeśli masz specjalne wymagania co do runnera (na przykład określony sprzęt) - stawiasz własny runner.
+
+Pipeline.yml - skrypt automatyzujący.
+
+* Triggers - w odpowiedzi na jakie zdarzenia należy odpalić pipeline?
+* Jobs - sposoby na równoległe wykonywanie zadań w pipeline.
+* Tasks - zadania cząstkowe.
+
+## GitFlow
+
+Model pracy z branchami:
+* Branch główny - na nim "ma zawsze działać"
+* Branch dev - stąd zaczynamy konkretne zadania, tutaj je mergujemy
+* Wydanie nowej wersji - tworzymy branch release-candidate, po testach mergujemy go do main
+
+Oczywiście możecie sobie ustalić dowolny sposób, jaki Wam odpowiada.
+
+## GitOps
+
+Idea mówiąca, że stan repozytorium `git` odzwierciedla całość systemu informatycznego. Zmiany w repozytorium skutkują np zmianami na infrastrukturze... Ale to nieco bardziej złożone :)
