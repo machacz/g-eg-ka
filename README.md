@@ -4,15 +4,15 @@ Kiedy ostatnio przygotowywaliście jakąś pracę w grupie? Może jakaś prezent
 
 Jakieś pomysły na wspólna edycję plików?
 
-* Współdzielony dokument na Google Drive, Sharepoint, Office365
-* Dołączanie plików do czatu na Teams
-* Wysyłanie plików mailem bądź przenoszenie ich na pendrive (ktoś to jeszcze robi?)
+* Współdzielony dokument na Google Drive, Sharepoint, Office365.
+* Dołączanie plików do czatu na Teams.
+* Wysyłanie plików mailem bądź przenoszenie ich na pendrive. (Ktoś to jeszcze robi?)
 
 ## Wyzwania wspólnej pracy na plikach
 
 * Która wersja jest najnowsza?
-* Konflikt edycyjny
-* Problemy ze scalaniem zmian
+* Konflikt edycyjny.
+* Problemy ze scalaniem zmian.
 * Kto to zmienił?
 * Dlaczego to zmieniono?
 * Czy można wycofać tę konkretną zmianę?
@@ -31,19 +31,19 @@ Jakie są najczęstsze skutki użycia "naiwnych" sposobów pracy w grupie?
 
 ## Jakie rozwiązania dostarczają systemy kontroli wersji (takie jak git)
 
-* Śledzenie zmian (kto, kiedy, dlaczego i co zmienił)
-* Możliwość cofnięcia się w czasie do dowolnego momentu
-* Wskazywanie najbardziej aktualnej wersji
-* Porównywanie ze sobą różnych wersji tego samego pliku
+* Śledzenie zmian (kto, kiedy, dlaczego i co zmienił).
+* Możliwość cofnięcia się w czasie do dowolnego momentu.
+* Wskazywanie najbardziej aktualnej wersji.
+* Porównywanie ze sobą różnych wersji tego samego pliku.
 * ...
 * ...
 * ...
 
 Dodatkowo, `git` dostarcza następujące ułatwienia:
 
-* Łatwe scalanie kilku zmian w jednym pliku
-* Rozwiązywanie konfliktów edycyjnych
-* Łatwą izolację wersji rozwojowych od działających
+* Łatwe scalanie kilku zmian w jednym pliku.
+* Rozwiązywanie konfliktów edycyjnych.
+* Łatwą izolację wersji rozwojowych od działających.
 * ...
 * ...
 * ...
@@ -53,8 +53,8 @@ Dodatkowo, `git` dostarcza następujące ułatwienia:
 Systemy kontroli wersji (czyli np. `git`) są zaprojektowane do pracy z danymi tekstowymi. Niestety, prezentacja w PowerPoincie kiepsko śledzi się w gicie... Słyszał ktoś kiedyś o LaTeX-u?
 
 KTO UMIESZCZA W REPOZYTORIUM GIT ZMIENNE DANE BINARNE, A W SZCZEGÓLNOŚCI:
-* SKOMPILOWANE PLIKI BINARNE
-* PLIKI .APK, .IPK, DOWOLNE INNE APLIKACJE MOBILNE
+* SKOMPILOWANE PLIKI BINARNE,
+* PLIKI .APK, .IPK, DOWOLNE INNE APLIKACJE MOBILNE,
 * DUŻE PLIKI MULTIMEDIALNE EDYTOWANE W PROJEKCIE
 
 PODLEGA KARZE POZBAWIENIA WYPŁATY NIE NIŻSZEJ NIŻ TRZY MIESIĄCE, KARZE NAGANY, BĄDŹ KARZE ZMIANY ZESPOŁU NA PIERWSZĄ LINIĘ WSPARCIA ORANGE.
@@ -84,9 +84,14 @@ PODLEGA KARZE POZBAWIENIA WYPŁATY NIE NIŻSZEJ NIŻ TRZY MIESIĄCE, KARZE NAGAN
 
 `git checkout -b main`
 
-* Opcja `-b` powoduje utworzenie brancha
+* Opcja `-b` powoduje utworzenie brancha.
+* Co to w ogóle jest `branch`?
 
-Teraz utwórz plik `README.md`...
+Zbiór commitów opatrzonych wspólną etykietą.
+
+Jak się to rozrysowuje? W określoną strukturę - historia.
+
+* Teraz utwórz plik `README.md`...
 
 `git add .`
 
@@ -108,19 +113,26 @@ Teraz utwórz plik `README.md`...
 
 ## Pracujemy na branchu - najpierw właściciel
 
-* Wybierz jeden z tekstów w tym repozytorium - bądź opracuj własny, jeśli potrafisz zrobic to szybko
-* Utwórz branch, na przykład o nazwie `challenge`, `task` - cokolwiek Ci odpowiada
-* Dodaj na niego tekst w formie wyzwania, i poinformuj, na czym to wyzwanie polega
+* Wybierz jeden z tekstów w tym repozytorium - bądź opracuj własny, jeśli potrafisz zrobic to szybko.
+* Utwórz branch, na przykład o nazwie `challenge`, `task` - cokolwiek Ci odpowiada.
+* Dodaj na niego tekst w formie wyzwania, i poinformuj, na czym to wyzwanie polega.
 
 ## Pracujemy na branchu - teraz collaborator
 
-* Sklonuj repozytorium kolegi
-* Przełącz się na branch z testami
-* Na tej podstawie utwórz własny branch o nazwie `response`, `answer` itp
-* Popraw załączomy plik, udzielając odpowiedzi (dyktando)
+* Sklonuj repozytorium kolegi.
+* Przełącz się na branch z testami.
+* Na tej podstawie utwórz własny branch o nazwie `response`, `answer` itp.
+* Popraw załączomy plik, udzielając odpowiedzi (dyktando).
 
 ## Robimy pull request
 
+* Co to jest `pull request`? (To wcale nie jest termin z `gita`!)
+
 ![Compare and pull request](/ilustracje/compare_and_pull_request.jpg)
+
+* Co to jest `merge` (i to jak najbardziej jest termin z `gita`)?
+* Co to jest `squash` i `rebase`?
+
+(Rebase przenosi commity na docelowy branch, zmieniając ich ID).
 
 ![Merge](/ilustracje/merge.jpg)
