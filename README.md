@@ -80,16 +80,25 @@ PODLEGA KARZE POZBAWIENIA WYPŁATY NIE NIŻSZEJ NIŻ TRZY MIESIĄCE, KARZE NAGAN
 `git clone https://itakdalej`
 
 * Dlaczego `https` a nie `ssh`? 
+* Dokąd sklonował?
 
 `git checkout -b main`
 
+* Opcja `-b` powoduje utworzenie brancha
+
 Teraz utwórz plik `README.md`...
 
-`git add ..`
+`git add .`
 
+* Wskazanie `.` oznacza: `dodaj wszystko w tym katalogu`. Możesz też zamiast kropki napisać `README.md`
 * Co to jest commit (po polsku: migawka)? Może lepiej snapshot...
+* Czy to już teraz mam się przedstawić?
 
 `git commit -m "Mój pierwszy commit"`
+
+* Co to znaczy `wypchnąć`/`push` pliki?
+* Co to jest `upstream`?
+* Jeśli do tej pory się nie przedstawiłem, to teraz na pewno będę musiał.
 
 `git push -u origin main`
 
