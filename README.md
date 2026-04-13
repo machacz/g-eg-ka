@@ -61,6 +61,10 @@ PODLEGA KARZE POZBAWIENIA WYPŁATY NIE NIŻSZEJ NIŻ TRZY MIESIĄCE, KARZE NAGAN
 
 (Czysty `git` nie da rady, ale np. rozwiązania `SoftwareForge`, takie jak `Github`, albo `gitea`/[`forgejo`](https://forgejo.org/) czy `GitLab` - jak najbardziej potrafią trzymać pliki wynikowe kompilacji i zbudowane projekty.)
 
+## Ojciec gita
+
+Autorem gita jest Linus Torvalds. Git został napisany do zarządzania kodem Linuxa.
+
 ## Dzielimy się na grupy
 
 ## Zakładamy pierwsze repozytorium
