@@ -71,6 +71,28 @@ PODLEGA KARZE POZBAWIENIA WYPŁATY NIE NIŻSZEJ NIŻ TRZY MIESIĄCE, KARZE NAGAN
 
 ## Dodajemy pliki
 
+* Co to jest `repozytorium`?
+* Co to znaczy, że `git` jest `rozproszonym systemem kontroli wersji`?
+* Co to jest `klonowanie`?
+
+![Pierwsze klonowanie](/ilustracje/firstclone.jpg)
+
+`git clone https://itakdalej`
+
+* Dlaczego `https` a nie `ssh`? 
+
+`git checkout -b main`
+
+Teraz utwórz plik `README.md`...
+
+`git add ..`
+
+* Co to jest commit (po polsku: migawka)? Może lepiej snapshot...
+
+`git commit -m "Mój pierwszy commit"`
+
+`git push -u origin main`
+
 ## Zapraszamy kolegę/koleżankę
 
 ![Nowe repozytorium](/ilustracje/collaborators.jpg)
