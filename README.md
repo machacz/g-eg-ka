@@ -73,6 +73,8 @@ PODLEGA KARZE POZBAWIENIA WYPŁATY NIE NIŻSZEJ NIŻ TRZY MIESIĄCE, KARZE NAGAN
 
 ## Zapraszamy kolegę/koleżankę
 
+![Nowe repozytorium](/ilustracje/collaborators.jpg)
+
 ## Pracujemy na branchu
 
 ## Robimy pull request
