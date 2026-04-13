@@ -130,6 +130,8 @@ Jak się to rozrysowuje? W określoną strukturę - historia.
 
 ![Compare and pull request](/ilustracje/compare_and_pull_request.jpg)
 
+`Code review` czyli przeglądanie zmian - praktyka koderów.
+
 * Co to jest `merge` (i to jak najbardziej jest termin z `gita`)?
 * Co to jest `squash` i `rebase`?
 
@@ -146,7 +148,7 @@ Jak się to rozrysowuje? W określoną strukturę - historia.
 ## Pipeline - GitHub Actions
 
 * Testy wymagane do przejścia, zanim będzie można zmergować kod.
-* Budowanie aplikacji po mergu.
+* Budowanie aplikacji po mergu. (Tutaj tworzą się pliki dostępne na zakładce `Releases`)
 * Automatyczne deploymenty.
 * ...
 * ...
