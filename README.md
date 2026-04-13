@@ -65,6 +65,8 @@ PODLEGA KARZE POZBAWIENIA WYPŁATY NIE NIŻSZEJ NIŻ TRZY MIESIĄCE, KARZE NAGAN
 
 ## Zakładamy pierwsze repozytorium
 
+![Nowe repozytorium](/ilustracje/nowe_repo.jpg)
+
 ## Dodajemy pliki
 
 ## Zapraszamy kolegę/koleżankę
